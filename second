@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MICHAEL RAY RICHARDSON PRIVATE BANK ESTATE AND TRUST - Detailed Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .service-section {
+            margin-bottom: 30px;
+        }
+        .sub-service {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>MICHAEL RAY RICHARDSON PRIVATE BANK ESTATE AND TRUST</h1>
+    <p>Explore the in-depth services offered by our firm, tailored to address every aspect of estate planning, trust administration, tax compliance, and wealth management.</p>
+
+    <div class="service-section">
+        <h2>Tax Preparation and Filing</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Form Number</th>
+                    <th>Description</th>
+                    <th>Applicability</th>
+                    <th>Due Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1040</td>
+                    <td>U.S. Individual Income Tax Return</td>
+                    <td>Final return for decedents</td>
+                    <td>April 15 of the following year</td>
+                </tr>
+                <tr>
+                    <td>1040V</td>
+                    <td>Payment Voucher for Form 1040</td>
+                    <td>When mailing a payment with Form 1040</td>
+                    <td>April 15 of the following year</td>
+                </tr>
+                <tr>
+                    <td>1041</td>
+                    <td>U.S. Income Tax Return for Estates and Trusts</td>
+                    <td>For estates and trusts with gross income over $600</td>
+                    <td>15th day of the 4th month after the close of the tax year</td>
+                </tr>
+                <tr>
+                    <td>1099 Series</td>
+                    <td>Various (e.g., 1099-MISC, 1099-INT, 1099-DIV)</td>
+                    <td>Report payments to non-employees, interest, dividends</td>
+                    <td>January 31 for recipient copies, March 31 for IRS</td>
+                </tr>
+                <tr>
+                    <td>706</td>
+                    <td>United States Estate (and Generation-Skipping Transfer) Tax Return</td>
+                    <td>For estates over the federal exemption amount</td>
+                    <td>9 months after the date of death, with a possible 6-month extension</td>
+                </tr>
+                <tr>
+                    <td>709</td>
+                    <td>United States Gift (and Generation-Skipping Transfer) Tax Return</td>
+                    <td>For gifts exceeding the annual exclusion</td>
+                    <td>April 15 of the following year</td>
+                </tr>
+                <tr>
+                    <td>5227</td>
+                    <td>Split-Interest Trust Information Return</td>
+                    <td>For trusts involving both charitable and non-charitable beneficiaries</td>
+                    <td>April 15 of the following year</td>
+                </tr>
+                <!-- Add more forms as necessary -->
+            </tbody>
+        </table>
+    </div>
+
+    <div class="service-section">
+        <h2>Estate and Trust Services</h2>
+        <ul>
+            <li><strong>Estate Planning:</strong>
+                <ul class="sub-service">
+                    <li>Will Drafting and Review</li>
+                    <li>Trust Creation (Revocable, Irrevocable, Special Needs, etc.)</li>
+                    <li>Power of Attorney and Health Care Directives</li>
+                    <li>Minimizing Estate Taxes through Strategic Gifting</li>
+                    <li>Asset Protection Strategies</li>
+                </ul>
+            </li>
+            <li><strong>Trust Administration:</strong>
+                <ul class="sub-service">
+                    <li>Acting as Trustee or Co-Trustee</li>
+                    <li>Managing Trust Assets</li>
+                    <li>Distributions According to Trust Terms</li>
+                    <li>Annual Reporting and Tax Filings</li>
+                    <li>Trust Modification or Termination</li>
+                </ul>
+            </li>
+            <li><strong>Succession Planning:</strong>
+                <ul class="sub-service">
+                    <li>Family Business Transition</li>
+                    <li>Key Person Insurance</li>
+                    <li>Buy-Sell Agreements</li>
+                    <li>Leadership Development for Successors</li>
+                </ul>
+            </li>
+            <li><strong>Probate Services:</strong>
+                <ul class="sub-service">
+                    <li>Probate Avoidance Strategies</li>
+                    <li>Executor Support</li>
+                    <li>Handling of Legal Proceedings</li>
+                    <li>Asset Distribution</li>
+                </ul>
+            </li>
+            <li><strong>Charitable Giving:</strong>
+                <ul class="sub-service">
+                    <li>Charitable Remainder Trusts</li>
+                    <li>Charitable Lead Trusts</li>
+                    <li>Donor Advised Funds</li>
+                    <li>Foundation Setup and Management</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="service-section">
+        <h2>Additional Financial Services</h2>
+        <ul>
+            <li><strong>Wealth Management:</strong>
+                <ul class="sub-service">
+                    <li>Customized Investment Portfolios</li>
+                    <li>Risk Assessment and Management</li>
+                    <li>Alternative Investments (Real Estate, Private Equity)</li>
+                    <li>Retirement Planning</li>
+                    <li>Legacy Planning</li>
+                </ul>
+            </li>
+            <li><strong>Private Banking:</strong>
+                <ul class="sub-service">
+                    <li>Personalized Banking Accounts</li>
+                    <li>Loan Structuring (Mortgages, Business Loans, etc.)</li>
+                    <li>International Banking Services</li>
+                    <li>Concierge Banking Services</li>
+                </ul>
+            </li>
+            <li><strong>Family Office Services:</strong>
+                <ul class="sub-service">
+                    <li>Integrated Financial Planning</li>
+                    <li>Coordination with Legal and Tax Professionals</li>
+                    <li>Multigenerational Wealth Education</li>
+                    <li>Philanthropy Management</li>
+                </ul>
+            </li>
+            <li><strong>Real Estate Investment Trust (REIT) Management:</strong>
+                <ul class="sub-service">
+                    <li>Property Acquisition and Management</li>
+                    <li>REIT Structuring for Tax Efficiency</li>
+                    <li>Portfolio Diversification</li>
+                    <li>Lease and Tenant Management</li>
+                </ul>
+            </li>
+            <li><strong>Risk Management:</strong>
+                <ul class="sub-service">
+                    <li>Insurance Portfolio Review and Recommendations</li>
+                    <li>Liability Mitigation</li>
+                    <li>Cybersecurity for Wealth Management</li>
+                    <li>Business Continuity Planning</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <h2>Notes:</h2>
+    <ul>
+        <li><strong>Customization:</strong> Services are customized to fit the unique circumstances and objectives of each client.</li>
+        <li><strong>Ongoing Support:</strong> We provide continuous guidance throughout the lifecycle of estate plans and financial strategies.</li>
+        <li><strong>Confidentiality and Compliance:</strong> All services are conducted with the utmost respect for client privacy and in compliance with all relevant laws and regulations.</li>
+        <li><strong>Education:</strong> Part of our service includes educating clients on financial and legal changes that could impact their strategies.</li>
+    </ul>
+
+    <p><em>This detailed service list is intended to give a comprehensive overview of our capabilities. However, the actual services provided are tailored to each client's specific needs, and we adapt our offerings to evolving legal, financial, and client circumstances.</em></p>
+</body>
+</html>

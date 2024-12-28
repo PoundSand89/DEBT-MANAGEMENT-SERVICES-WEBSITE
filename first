@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MICHAEL RAY RICHARDSON PRIVATE BANK ESTATE AND TRUST - Comprehensive Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .service-section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>MICHAEL RAY RICHARDSON PRIVATE BANK ESTATE AND TRUST</h1>
+    <p>Explore the comprehensive services offered by our firm, designed to manage all aspects of estate planning, trust administration, and tax compliance.</p>
+
+    <div class="service-section">
+        <h2>Tax Preparation and Filing</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Form Number</th>
+                    <th>Description</th>
+                    <th>Applicability</th>
+                    <th>Due Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1040</td>
+                    <td>U.S. Individual Income Tax Return</td>
+                    <td>Final return for decedents</td>
+                    <td>April 15 of the following year</td>
+                </tr>
+                <tr>
+                    <td>1040V</td>
+                    <td>Payment Voucher for Form 1040</td>
+                    <td>When mailing a payment with Form 1040</td>
+                    <td>April 15 of the following year</td>
+                </tr>
+                <tr>
+                    <td>1041</td>
+                    <td>U.S. Income Tax Return for Estates and Trusts</td>
+                    <td>For estates and trusts with gross income over $600</td>
+                    <td>15th day of the 4th month after the close of the tax year</td>
+                </tr>
+                <tr>
+                    <td>1099 Series</td>
+                    <td>Various (e.g., 1099-MISC, 1099-INT, 1099-DIV)</td>
+                    <td>Report payments to non-employees, interest, dividends</td>
+                    <td>January 31 for recipient copies, March 31 for IRS</td>
+                </tr>
+                <tr>
+                    <td>706</td>
+                    <td>United States Estate (and Generation-Skipping Transfer) Tax Return</td>
+                    <td>For estates over the federal exemption amount</td>
+                    <td>9 months after the date of death, with a possible 6-month extension</td>
+                </tr>
+                <tr>
+                    <td>709</td>
+                    <td>United States Gift (and Generation-Skipping Transfer) Tax Return</td>
+                    <td>For gifts exceeding the annual exclusion</td>
+                    <td>April 15 of the following year</td>
+                </tr>
+                <!-- Add more forms as necessary -->
+            </tbody>
+        </table>
+    </div>
+
+    <div class="service-section">
+        <h2>Estate and Trust Services</h2>
+        <ul>
+            <li><strong>Estate Planning:</strong> Comprehensive strategies for wealth transfer, including wills, trusts, and powers of attorney.</li>
+            <li><strong>Trust Administration:</strong> Managing revocable and irrevocable trusts, ensuring compliance with trust terms and tax obligations.</li>
+            <li><strong>Succession Planning:</strong> Advising on business succession to maintain control and minimize tax impact.</li>
+            <li><strong>Probate Services:</strong> Guidance through the probate process to settle estates efficiently.</li>
+            <li><strong>Charitable Giving:</strong> Designing and implementing charitable trusts or foundations that fulfill client wishes while offering tax advantages.</li>
+        </ul>
+    </div>
+
+    <div class="service-section">
+        <h2>Additional Financial Services</h2>
+        <ul>
+            <li><strong>Wealth Management:</strong> Customized investment strategies for growth, income, or preservation of assets.</li>
+            <li><strong>Private Banking:</strong> Tailored banking solutions for high-net-worth individuals, including specialized loans and credit facilities.</li>
+            <li><strong>Family Office Services:</strong> Comprehensive support for managing multi-generational wealth, including tax, legal, and investment advice.</li>
+            <li><strong>Real Estate Investment Trust (REIT) Management:</strong> Advising on or managing investments in properties for income generation or capital appreciation.</li>
+            <li><strong>Risk Management:</strong> Strategies for asset protection, including insurance products and legal structures.</li>
+        </ul>
+    </div>
+
+    <h2>Notes:</h2>
+    <ul>
+        <li><strong>Form Compliance:</strong> Timely and accurate filing of all forms is crucial. Late filings or errors can lead to penalties or audits.</li>
+        <li><strong>Tax Strategy:</strong> Beyond compliance, we focus on tax strategy to minimize liability and maximize wealth preservation.</li>
+        <li><strong>Regulatory Compliance:</strong> We stay updated with IRS and state regulations to ensure your estate and financial strategies remain compliant and beneficial.</li>
+        <li><strong>Client Education:</strong> Educating our clients on tax laws and estate planning ensures they make informed decisions about their wealth.</li>
+        <li><strong>Software and Tools:</strong> Utilizing advanced estate planning and tax software to provide precise and efficient services.</li>
+    </ul>
+
+    <p><em>This overview is not exhaustive. Our services are tailored to the unique needs of each client, adapting to new laws, financial products, and client goals. Always consult with our experts for personalized advice.</em></p>
+</body>
+</html>
